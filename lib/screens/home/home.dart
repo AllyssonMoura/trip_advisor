@@ -10,7 +10,7 @@ class Home extends StatelessWidget {
       capital: "Paris",
       country: "França",
       assessments: 32,
-      nationality: "Brasileira",
+      nationality: "Francesa",
       resume:
           "É impossível não se render aos encantos de Paris, a bela capital francesa é destino turístico frequentado por milhões de pessoas todos os anos. Vibrante, charmosa, romântica, divertida, além de berço da cultura e da arte, a Cidade Luz, como é chamada, possui uma infindável lista de qualidades.",
       photos: [
